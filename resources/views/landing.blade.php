@@ -1,3 +1,6 @@
+{{-- ============================================================ --}}
+{{-- HALAMAN UTAMA (Landing Page) - SchoolPay SMKN 7 Baleendah  --}}
+{{-- ============================================================ --}}
 @extends('layouts.guest')
 @section('title', 'Beranda')
 @section('styles')

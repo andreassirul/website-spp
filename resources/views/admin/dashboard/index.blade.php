@@ -1,3 +1,6 @@
+{{-- ============================================================ --}}
+{{-- HALAMAN DASHBOARD ADMIN - SchoolPay SMKN 7 Baleendah       --}}
+{{-- ============================================================ --}}
 @extends('layouts.app')
 @section('title', 'Dashboard Admin')
 @section('page-title', 'Dashboard')
